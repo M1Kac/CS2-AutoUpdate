@@ -8,7 +8,7 @@ This is a simple plugin that automatically restart the server.
 
 
 # Instalation
-- Download the latest release from [https://github.com/abnerfs/AutoUpdate/releases](https://github.com/M1Kac/AutoUpdate/tags)
+- Download the latest release from [https://github.com/M1Kac/CS2-AutoUpdate/releases)
 - Extract the .zip file into `addons/counterstrikesharp/plugins`
 - Enjoy
 
