@@ -1,0 +1,8 @@
+{
+    "update_found": "{green}A new CS2 update is available! Restarting in 20 seconds...",
+    "server_up_to_date": "{green}Your server is running the latest version.",
+    "new_update_available": "{red}A new update is available! Build: ",
+    "update_check_failed": "{red}Failed to check for updates.",
+    "manual_restart_disabled": "{yellow}Manual server restart is disabled by config.",
+    "restarting_now": "{green}Restarting server now..."
+}
