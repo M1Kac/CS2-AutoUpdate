@@ -14,6 +14,7 @@ This is a simple plugin that automatically restart the server.
 
 # Commands
 `!update` check for updates command
+
 `!crash` server restart command
 
 ### Configuration
