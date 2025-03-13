@@ -12,14 +12,20 @@ This is a simple plugin that automatically restart the server.
 - Extract the .zip file into `addons/counterstrikesharp/plugins`
 - Enjoy
 
+# Commands
+`!update` check for updates command
+`!crash` server restart command
+
 ### Configuration
 
 Configuration file generated on addons/counterstrikesharp/configs/plugins/AutoUpdate/AutoUpdate.json
 ```json
 {
-  "CheckIntervalMinutes": 30,
+  "CheckIntervalMinutes": 20,
   "AutoRestartEnabled": true,
-  "AutoRestartTime": "00:40:00",
+  "EnableManualRestart": true,
+  "Flag": "@css/root",
+  "AutoRestartTime": "01:00:00",
   "ConfigVersion": 1
 }
 ```
